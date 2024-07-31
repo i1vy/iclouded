@@ -9,11 +9,11 @@ python -m venv venv
 ```
 
 ## configuration
-heres the config remember to change the username and password xD
+heres the config :3
 ```toml
 [user]
-username = ""
-password = ""
+username = "<email>"
+password = "<password>"
 
 [options]
 location = "~/icloud"
@@ -23,3 +23,15 @@ location = "~/icloud"
 
 ## running
 im lazy so you have to just run it with `./venv/bin/python main.py`
+
+HOWEVER if you use fish (as you should) you can use this function:
+```fish
+function iclouded
+    cd <iclouded location>
+    ./venv/bin/python main.py
+    cd --
+end
+```
+^ `~/.config/fish/functions/iclouded.fish`
+
+you should then be able to just use `iclouded` from wherever
