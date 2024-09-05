@@ -1,54 +1,40 @@
-# 🏳️‍🌈 Opinionated Queer License v1.1
+                OVERWORKED LICENSE (OWL) v1.0 
+                  Version 1, September 2024 
 
-© Copyright i1vy
+Copyright (C) 2024 i1vy <i1vy@proton.me> 
 
-## Permissions
+dude idfk if i maintain this shit at all its some kind of miracle. 
+like i can barely maintain myself let alone some software i made out
+of desperation. like just fucking do what you want with this shit i 
+do not care. try not to be evil with it i guess, but no matter what 
+i write here some jackass will find a way to ruin it.  
 
-The creators of this Work (“The Licensor”) grant permission
-to any person, group or legal entity that doesn't violate the prohibitions below (“The User”),
-to do everything with this Work that would otherwise infringe their copyright or any patent claims,
-subject to the following conditions:
+                       OVERWORKED LICENSE 
+    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
-## Obligations
+    0. permission is hereby granted to use, copy, modify, merge, publish, 
+distribute, sublicense, and/or sell copies of the software, subject to the 
+following conditions. do whatever the fuck you want: 
 
-The User must give appropriate credit to the Licensor,
-provide a copy of this license or a (clickable, if the medium allows) link to
-[oql.avris.it/license/v1.1](https://oql.avris.it/license/v1.1),
-and indicate whether and what kind of changes were made.
-The User may do so in any reasonable manner,
-but not in any way that suggests the Licensor endorses the User or their use.
+    1. this license is to apply to all derivative works. no exceptions. 
+don't try to weasel your way out of it.
 
-## Prohibitions
+    2. the original author’s name must be left intact in all copies or 
+substantial portions of the software. because, ya know, respect and shit.
 
-No one may use this Work for prejudiced or bigoted purposes, including but not limited to:
-racism, xenophobia, queerphobia, queer exclusionism, homophobia, transphobia, enbyphobia, misogyny.
+    3. there's absolutely no warranty of any kind. the software is provided 
+"as is" without any promise it’ll work, be fit for a particular purpose, 
+or anything else. if it breaks, you fix it. tough luck, bitch.
 
-No one may use this Work to inflict or facilitate violence or abuse of human rights as defined in the
-[Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
+    4. don’t use the software for evil. you know what evil is. don’t pretend 
+you don’t. if you’re using this in a dystopian megacorp or some sketchy-ass 
+government project, just stop.
 
-No law enforcement, carceral institutions, immigration enforcement entities, military entities or military contractors
-may use the Work for any reason. This also applies to any individuals employed by those entities.
+    5. if you distribute copies or substantial portions of the software, you 
+have to retain this license in all copies or substantial portions. not optional.
 
-No business entity where the ratio of pay (salaried, freelance, stocks, or other benefits)
-between the highest and lowest individual in the entity is greater than 50 : 1
-may use the Work for any reason.
+    6. by contributing to this software, you agree to license your contributions 
+under the same terms as this license. no take-backsies.
 
-No private business run for profit with more than a thousand employees
-may use the Work for any reason.
-
-Unless the User has made substantial changes to the Work,
-or uses it only as a part of a new work (eg. as a library, as a part of an anthology, etc.),
-they are prohibited from selling the Work.
-That prohibition includes processing the Work with machine learning models.
-
-## Sanctions
-
-If the Licensor notifies the User that they have not complied with the rules of the license,
-they can keep their license by complying within 30 days after the notice.
-If they do not do so, their license ends immediately.
-
-## Warranty
-
-This Work is provided “as is”, without warranty of any kind, express or implied.
-The Licensor will not be liable to anyone for any damages related to the Work or this license,
-under any kind of legal claim as far as the law allows.
+OVERWORKED LICENSE (OWL) v1.0 
+Copyright (C) 2024 i1vy <i1vy@proton.me> 
